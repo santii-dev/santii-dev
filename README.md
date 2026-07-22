@@ -96,12 +96,12 @@ More projects will be published as they are completed.
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: *(Coming Soon)*
+💼 LinkedIn: *www.linkedin.com/in/santiago-taba-sepulveda-606166420*
 
-🌐 Portfolio: *(Coming Soon)*
+🌐 Portfolio: 🔨 
 
-📧 Email: your@email.com
 
 ---
 
 > **"Building software that creates real impact."**
+> **"Build things people love."**
