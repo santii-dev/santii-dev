@@ -104,4 +104,5 @@ More projects will be published as they are completed.
 ---
 
 > **"Building software that creates real impact."**
+
 > **"Build things people love."**
