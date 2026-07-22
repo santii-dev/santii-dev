@@ -88,11 +88,6 @@ More projects will be published as they are completed.
 
 ---
 
-## 📈 GitHub Stats
-
-<!-- GitHub Stats -->
-
----
 
 ## 📫 Connect With Me
 
